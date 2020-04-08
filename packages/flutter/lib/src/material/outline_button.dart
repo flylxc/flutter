@@ -482,7 +482,7 @@ class _OutlineButtonState extends State<_OutlineButton> with SingleTickerProvide
   }
 }
 
-// Render the button's outline border using using the OutlineButton's
+// Render the button's outline border using the OutlineButton's
 // border parameters and the button or buttonTheme's shape.
 class _OutlineBorder extends ShapeBorder implements MaterialStateProperty<ShapeBorder>{
   const _OutlineBorder({
